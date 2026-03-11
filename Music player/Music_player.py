@@ -1,3 +1,7 @@
+#Project name: Music player
+#Author: Tbm Tahmid
+#Date: 11/3/2026
+
 import os
 os.environ['PYGAME_HIDE_SUPPORT_PROMPT'] = "hide"
 import pygame
@@ -80,4 +84,5 @@ def main():
     
     
 if __name__ == "__main__":
+
     main()
